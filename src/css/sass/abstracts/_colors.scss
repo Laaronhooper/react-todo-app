@@ -1,0 +1,21 @@
+:root {
+  --gradient-light: linear-gradient(
+    145deg,
+    hsla(0, 0%, 100%, 0),
+    hsla(0, 0%, 100%, 0.33)
+  );
+  --gradient-dark: linear-gradient(
+    145deg,
+    hsla(0, 0%, 0%, 0),
+    hsla(0, 0%, 0%, 0ss)
+  );
+  --clr-primary--200: hsl(268, 100%, 90%);
+  --clr-primary--250: hsl(268, 100%, 80%);
+  --clr-primary--300: hsl(268, 100%, 70%);
+  --clr-primary--400: hsl(268, 100%, 50%);
+  --clr-primary--500: hsl(268, 100%, 30%);
+
+  --clr-neutral--100: hsl(0, 0%, 100%);
+  --clr-neutral--200: hsl(0, 0%, 80%);
+  --clr-neutral--900: hsl(0, 0%, 0%);
+}

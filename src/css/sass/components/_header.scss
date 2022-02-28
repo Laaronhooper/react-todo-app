@@ -1,0 +1,9 @@
+@use "../base/typography" as f;
+
+.heading {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: f.$font;
+  font-size: 3rem;
+}

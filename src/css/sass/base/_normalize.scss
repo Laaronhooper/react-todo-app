@@ -1,0 +1,7 @@
+@use "./typography" as f;
+
+* {
+  font-family: f.$font;
+  color: var(--clr-neutral--100);
+  background-color: var(--clr-primary--250);
+}
