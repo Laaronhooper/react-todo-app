@@ -1,5 +1,2 @@
-# Getting started
-
-### `nvm use v16.13.0`
-
-### `yarn start`
+# Take a look at:
+https://Laaronhooper.github.io/react-todo-app
